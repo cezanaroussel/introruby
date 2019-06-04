@@ -1,3 +1,3 @@
 # introtoruby
-just wanted to keep a journal 
+just wanted to keep a journal, 
 enjoy!
